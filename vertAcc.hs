@@ -8,7 +8,7 @@ import Numeric
 
 -- k =  0,5 * cw * L * Dichte
 
-m = 200000
+m = 200
 k = 2.5
 
 g = 9.81
