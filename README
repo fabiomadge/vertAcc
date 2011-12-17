@@ -1,0 +1,7 @@
+The script takes some hardcoded variables such as mass, k, and gravity, where k is the product of 0,5, the drag coefficient, the area and the mass desity.
+
+Usage:
+
+step [starting time] [starting speed] [starting point]
+
+e.g. step 0 0 0
